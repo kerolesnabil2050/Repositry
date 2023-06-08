@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCsjO1mdWTecL2iFcfodrO5GQ5uWEGP2OZqsvrXbvHnTlESdRX6FV0/5OHIEtdS+x5+ao9Lpq0Il7aWZkxDVkA==",
+  "success": true,
+  "projectFilePath": "H:\\Ecommerce website\\WebApplication1\\EcommerceViewModel\\EcommerceViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keroles\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\keroles\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
